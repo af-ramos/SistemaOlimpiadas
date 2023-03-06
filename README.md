@@ -1,6 +1,6 @@
 # Sistema de Olimpíadas
 
-Aplicação desenvolvida para a disciplina de Banco de Dados I no ano de 2022 representando um sistema de olímpidas, contendo CRUDs (Create, Read, Update, Delete) para diversas tabelas, usando HTML, CSS, JavaScript e PHP.
+Aplicação desenvolvida para a disciplina de Banco de Dados I no ano de 2022 representando um sistema de olímpidas, contendo CRUDs (Create, Read, Update, Delete) para diversas tabelas, usando HTML, CSS, JavaScript, PHP e MySQL.
 
 ## Imagens da Aplicação
 
